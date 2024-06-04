@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699680691654",
+    "project_id": "appiness-aee3a",
+    "storage_bucket": "appiness-aee3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699680691654:android:696e86ea7ba23b25e9cec7",
+        "android_client_info": {
+          "package_name": "com.example.appinessproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJlpdrOEblJADjKm_hitCwnVeO388F7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

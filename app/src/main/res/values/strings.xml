@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appiness Project</string>
+    <string name="report_type">"Report Type : "</string>
+    <string name="authentic">"Authentic : "</string>
+    <string name="remedies">"Remedies : "</string>
+    <string name="vedic">"Vedic : "</string>
+    <string name="sold_out_copies">"Sold out copies : "</string>
+    <string name="total_page">"Total Page : "</string>
+</resources>
